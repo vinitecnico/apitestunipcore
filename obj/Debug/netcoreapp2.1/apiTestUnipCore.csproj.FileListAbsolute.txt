@@ -1,0 +1,14 @@
+C:\work\apiTestUnipCore\bin\Debug\netcoreapp2.1\apiTestUnipCore.deps.json
+C:\work\apiTestUnipCore\bin\Debug\netcoreapp2.1\apiTestUnipCore.runtimeconfig.json
+C:\work\apiTestUnipCore\bin\Debug\netcoreapp2.1\apiTestUnipCore.runtimeconfig.dev.json
+c:\work\apiTestUnipCore\bin\Debug\netcoreapp2.1\apiTestUnipCore.dll
+c:\work\apiTestUnipCore\bin\Debug\netcoreapp2.1\apiTestUnipCore.pdb
+c:\work\apiTestUnipCore\obj\Debug\netcoreapp2.1\apiTestUnipCore.csprojAssemblyReference.cache
+c:\work\apiTestUnipCore\obj\Debug\netcoreapp2.1\apiTestUnipCore.csproj.CoreCompileInputs.cache
+c:\work\apiTestUnipCore\obj\Debug\netcoreapp2.1\apiTestUnipCore.RazorAssemblyInfo.cache
+c:\work\apiTestUnipCore\obj\Debug\netcoreapp2.1\apiTestUnipCore.RazorAssemblyInfo.cs
+c:\work\apiTestUnipCore\obj\Debug\netcoreapp2.1\apiTestUnipCore.AssemblyInfoInputs.cache
+c:\work\apiTestUnipCore\obj\Debug\netcoreapp2.1\apiTestUnipCore.AssemblyInfo.cs
+c:\work\apiTestUnipCore\obj\Debug\netcoreapp2.1\apiTestUnipCore.RazorTargetAssemblyInfo.cache
+c:\work\apiTestUnipCore\obj\Debug\netcoreapp2.1\apiTestUnipCore.dll
+c:\work\apiTestUnipCore\obj\Debug\netcoreapp2.1\apiTestUnipCore.pdb
